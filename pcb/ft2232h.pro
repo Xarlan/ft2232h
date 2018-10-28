@@ -1,4 +1,4 @@
-update=Fri 19 Oct 2018 04:28:03 PM EAT
+update=Sun 28 Oct 2018 09:08:09 PM MSK
 version=1
 last_client=kicad
 [pcbnew]
